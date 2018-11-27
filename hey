@@ -1,3 +1,4 @@
+i'm finally succeful in pushing and pulling a file through git
 <<<<<<< HEAD
 abjkacascxbask 
 jankm.c /,
@@ -6,4 +7,10 @@ nadjkcm /`ey
 hey
 I'm trying to clone this file with my local repository.
 I'm struggling hard to learn Git and other Devops tools.
+<<<<<<< HEAD
 >>>>>>> f03c8b0534803c51a9263dbf113ed7446698d0da
+=======
+dkdna c
+dnqlsd 
+this is the final edit
+>>>>>>> e471f91ab8e197ac26af4c3d9dfae7953e38ab4a
